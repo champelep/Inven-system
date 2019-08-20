@@ -7,6 +7,7 @@
 <?php
  $year = date('Y');
  $sales = monthlySales($year);
+ //testing git shit
 ?>
 <?php include_once('layouts/header.php'); ?>
 <div class="row">
@@ -52,3 +53,5 @@
   </div>
 
 <?php include_once('layouts/footer.php'); ?>
+
+/
